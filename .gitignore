@@ -20,5 +20,3 @@ sent_emails.log
 # OS metadata
 .DS_Store
 Thumbs.db
-
-chat_context_summary.md
