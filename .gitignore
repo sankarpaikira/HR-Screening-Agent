@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Environment variables (contains secret API keys)
+.env
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local logs & data
+.logs/
+*.log
+sent_emails.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
